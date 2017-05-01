@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Palette</string>
+    <string name="symbol">Symbol</string>
+    <string name="color">Color</string>
 </resources>

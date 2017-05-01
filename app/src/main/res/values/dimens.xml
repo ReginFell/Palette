@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="smaller">2dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="normal">16dp</dimen>
+    <dimen name="large">32dp</dimen>
+
+    <dimen name="action_panel_height">64dp</dimen>
+
+</resources>
